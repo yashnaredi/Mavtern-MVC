@@ -1,4 +1,4 @@
-# Mavtern-MVC
+# Mavtern- A Internship portal built on Codeigniter platform
 Internships For Students
 
 The main purpose of our project by the end of semester is to deliver a website which provides opportunities for UTA (community) students to apply for available Internships and company recruiters to update the Internship postings. Students will be able to look for companies that are providing internships and at the same time companies can search for the students who are seeking opportunities. 
